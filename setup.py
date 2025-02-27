@@ -22,5 +22,5 @@ setup(
     author='Oscar Owino',
     author_email='owino4011@gmail.com',
     packages=find_packages(),
-    install_requires=get_requirements('requirements.txt')
+    install_requires=get_requirements('requirements.txt'),
 )
